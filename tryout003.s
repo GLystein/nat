@@ -19,7 +19,6 @@ add r5, r5, #0xFF @ mask = m-1 = 0x0000FFFF
 /*LDR R6, #396 @ counter - initialized 4*100-4 for 100 ints @need to change this
 
 add r8,r8,#0x18c
-
 /*LDR R7, #100 @ limit - initialized so values 0-99*/ 
 
  add r9,r9 #0x100
